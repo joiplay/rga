@@ -9,9 +9,9 @@ RGA files have a configuration file (game.cfg) which contains game information. 
 
 ## How to ##
 Templates for officially supported game types can be used for quick start. These steps can be followed to create a RGA file;
-    1. Open folder which contains game files.
-    2. Extract game files if they are compressed as a executable file.
-    3. Create configuration file (game.cfg) inside game folder.
-    4. (Optional) Delete unnecessary files.
-    5. Select all folder/files and compress them as a zip archive.
-    6. Rename file extension to rga.
+1. Open folder which contains game files.
+2. Extract game files if they are compressed as a executable file.
+3. Create configuration file (game.cfg) inside game folder.
+4. (Optional) Delete unnecessary files.
+5. Select all folder/files and compress them as a zip archive.
+6. Rename file extension to rga.
