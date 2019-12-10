@@ -1,0 +1,15 @@
+//title parameter is used as game title on launcher.
+title=Game Title
+//id parameter is used as unique identifier. Only alphanumeric characters are supported.
+id=GameID
+//execFile parameter is used to locate game files and main html file.
+execFile=Start.html
+//or
+execFile=Game.exe
+//icon parameter is used to locate icon image.
+icon=folder/iconname.png
+//version parameter is used as game version.
+version=Game Version
+//type parameter defines game type. Officially supported values are html, renpy, rpgmmv, 
+//rpgmvx, rpgmvxace, rpgmxp and tyrano.
+type=gametype
